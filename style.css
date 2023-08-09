@@ -61,22 +61,18 @@ hr {
     display: flex;
     justify-content: center;
     gap: 20px;
-    /* Kart aralığı */
 }
 
 .card {
     border: 1px solid #ccc;
-    /* Kenarlık stilini ve rengini ayarlayabilirsiniz */
     padding: 10px;
     text-align: center;
 }
 
 .card img {
     width: 400px;
-    /* Resim boyutu */
     height: 440px;
     object-fit: cover;
-    /* Genişlik değiştikçe yüksekliği otomatik ayarla */
 }
 
 #socialbox {
